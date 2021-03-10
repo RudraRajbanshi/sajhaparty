@@ -1,0 +1,618 @@
+[
+    {
+        "id": "1",
+        "district_code": "भोजपुर",
+        "name": "भोजपुर",
+        "province_id": "1",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "2",
+        "district_code": "धनकुटा",
+        "name": "धनकुटा",
+        "province_id": "1",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "3",
+        "district_code": "इलाम",
+        "name": "इलाम",
+        "province_id": "1",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "4",
+        "district_code": "झापा",
+        "name": "झापा",
+        "province_id": "1",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "5",
+        "district_code": "खोटाँग",
+        "name": "खोटाँग",
+        "province_id": "1",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "6",
+        "district_code": "मोरंग",
+        "name": "मोरंग",
+        "province_id": "1",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "7",
+        "district_code": "ओखलढुंगा",
+        "name": "ओखलढुंगा",
+        "province_id": "1",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "8",
+        "district_code": "पांचथर",
+        "name": "पांचथर",
+        "province_id": "1",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "9",
+        "district_code": "संखुवासभा",
+        "name": "संखुवासभा",
+        "province_id": "1",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "10",
+        "district_code": "सोलुखुम्बू-",
+        "name": "सोलुखुम्बू ",
+        "province_id": "1",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "11",
+        "district_code": "सुनसरी",
+        "name": "सुनसरी",
+        "province_id": "1",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "12",
+        "district_code": "ताप्लेजुंग",
+        "name": "ताप्लेजुंग",
+        "province_id": "1",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "13",
+        "district_code": "तेह्रथुम",
+        "name": "तेह्रथुम",
+        "province_id": "1",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "14",
+        "district_code": "उदयपुर",
+        "name": "उदयपुर",
+        "province_id": "1",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "15",
+        "district_code": "सप्तरी",
+        "name": "सप्तरी",
+        "province_id": "2",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "16",
+        "district_code": "सिराहा",
+        "name": "सिराहा",
+        "province_id": "2",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "17",
+        "district_code": "धनुषा",
+        "name": "धनुषा",
+        "province_id": "2",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "18",
+        "district_code": "महोत्तरी",
+        "name": "महोत्तरी",
+        "province_id": "2",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "19",
+        "district_code": "सर्लाही",
+        "name": "सर्लाही",
+        "province_id": "2",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "20",
+        "district_code": "बारा",
+        "name": "बारा",
+        "province_id": "2",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "21",
+        "district_code": "पर्सा",
+        "name": "पर्सा",
+        "province_id": "2",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "22",
+        "district_code": "रौतहट",
+        "name": "रौतहट",
+        "province_id": "2",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "23",
+        "district_code": "सिन्धुली",
+        "name": "सिन्धुली",
+        "province_id": "3",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "24",
+        "district_code": "रामेछाप",
+        "name": "रामेछाप",
+        "province_id": "3",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "25",
+        "district_code": "दोलखा",
+        "name": "दोलखा",
+        "province_id": "3",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "26",
+        "district_code": "भक्तपुर",
+        "name": "भक्तपुर",
+        "province_id": "3",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "27",
+        "district_code": "धादिङ",
+        "name": "धादिङ",
+        "province_id": "3",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "28",
+        "district_code": "काठमाडौँ-",
+        "name": "काठमाडौँ ",
+        "province_id": "3",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "29",
+        "district_code": "काभ्रेपलान्चोक",
+        "name": "काभ्रेपलान्चोक",
+        "province_id": "3",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "30",
+        "district_code": "ललितपुर",
+        "name": "ललितपुर",
+        "province_id": "3",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "31",
+        "district_code": "नुवाकोट",
+        "name": "नुवाकोट",
+        "province_id": "3",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "32",
+        "district_code": "रसुवा",
+        "name": "रसुवा",
+        "province_id": "3",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "33",
+        "district_code": "सिन्धुपाल्चोक",
+        "name": "सिन्धुपाल्चोक",
+        "province_id": "3",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "34",
+        "district_code": "चितवन",
+        "name": "चितवन",
+        "province_id": "3",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "35",
+        "district_code": "मकवानपुर",
+        "name": "मकवानपुर",
+        "province_id": "3",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "36",
+        "district_code": "बागलुङ",
+        "name": "बागलुङ",
+        "province_id": "4",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "37",
+        "district_code": "गोरखा",
+        "name": "गोरखा",
+        "province_id": "4",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "38",
+        "district_code": "कास्की",
+        "name": "कास्की",
+        "province_id": "4",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "39",
+        "district_code": "लमजुङ",
+        "name": "लमजुङ",
+        "province_id": "4",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "40",
+        "district_code": "मनाङ",
+        "name": "मनाङ",
+        "province_id": "4",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "41",
+        "district_code": "मुस्ताङ",
+        "name": "मुस्ताङ",
+        "province_id": "4",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "42",
+        "district_code": "म्याग्दी",
+        "name": "म्याग्दी",
+        "province_id": "4",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "43",
+        "district_code": "नवलपुर",
+        "name": "नवलपुर",
+        "province_id": "4",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "44",
+        "district_code": "पर्वत",
+        "name": "पर्वत",
+        "province_id": "4",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "45",
+        "district_code": "स्याङग्जा",
+        "name": "स्याङग्जा",
+        "province_id": "4",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "46",
+        "district_code": "तनहुँ",
+        "name": "तनहुँ",
+        "province_id": "4",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "47",
+        "district_code": "कपिलवस्तु",
+        "name": "कपिलवस्तु",
+        "province_id": "5",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "48",
+        "district_code": "परासी",
+        "name": "परासी",
+        "province_id": "5",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "49",
+        "district_code": "रुपन्देही",
+        "name": "रुपन्देही",
+        "province_id": "5",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "50",
+        "district_code": "अर्घाखाँची",
+        "name": "अर्घाखाँची",
+        "province_id": "5",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "51",
+        "district_code": "गुल्मी",
+        "name": "गुल्मी",
+        "province_id": "5",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "52",
+        "district_code": "पाल्पा",
+        "name": "पाल्पा",
+        "province_id": "5",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "53",
+        "district_code": "दाङ",
+        "name": "दाङ",
+        "province_id": "5",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "54",
+        "district_code": "प्युठान",
+        "name": "प्युठान",
+        "province_id": "5",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "55",
+        "district_code": "रोल्पा",
+        "name": "रोल्पा",
+        "province_id": "5",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "56",
+        "district_code": "पूर्वी-रूकुम",
+        "name": "पूर्वी रूकुम",
+        "province_id": "5",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "57",
+        "district_code": "बाँके",
+        "name": "बाँके",
+        "province_id": "5",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "58",
+        "district_code": "बर्दिया",
+        "name": "बर्दिया",
+        "province_id": "5",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "59",
+        "district_code": "पश्चिमी-रूकुम",
+        "name": "पश्चिमी रूकुम",
+        "province_id": "6",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "60",
+        "district_code": "सल्यान",
+        "name": "सल्यान",
+        "province_id": "6",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "61",
+        "district_code": "डोल्पा",
+        "name": "डोल्पा",
+        "province_id": "6",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "62",
+        "district_code": "हुम्ला",
+        "name": "हुम्ला",
+        "province_id": "6",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "63",
+        "district_code": "जुम्ला",
+        "name": "जुम्ला",
+        "province_id": "6",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "64",
+        "district_code": "कालिकोट",
+        "name": "कालिकोट",
+        "province_id": "6",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "65",
+        "district_code": "मुगु",
+        "name": "मुगु",
+        "province_id": "6",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "66",
+        "district_code": "सुर्खेत",
+        "name": "सुर्खेत",
+        "province_id": "6",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "67",
+        "district_code": "दैलेख",
+        "name": "दैलेख",
+        "province_id": "6",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "68",
+        "district_code": "जाजरकोट",
+        "name": "जाजरकोट",
+        "province_id": "6",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "69",
+        "district_code": "कैलाली",
+        "name": "कैलाली",
+        "province_id": "7",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "70",
+        "district_code": "अछाम",
+        "name": "अछाम",
+        "province_id": "7",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "71",
+        "district_code": "डोटी",
+        "name": "डोटी",
+        "province_id": "7",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "72",
+        "district_code": "बझाङ",
+        "name": "बझाङ",
+        "province_id": "7",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "73",
+        "district_code": "बाजुरा",
+        "name": "बाजुरा",
+        "province_id": "7",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "74",
+        "district_code": "कंचनपुर",
+        "name": "कंचनपुर",
+        "province_id": "7",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "75",
+        "district_code": "डडेलधुरा",
+        "name": "डडेलधुरा",
+        "province_id": "7",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "76",
+        "district_code": "बैतडी",
+        "name": "बैतडी",
+        "province_id": "7",
+        "status": "active",
+        "remarks": null
+    },
+    {
+        "id": "77",
+        "district_code": "दार्चुला",
+        "name": "दार्चुला",
+        "province_id": "7",
+        "status": "active",
+        "remarks": null
+    }
+]
